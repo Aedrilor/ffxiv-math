@@ -1,0 +1,6 @@
+[user]
+  name = Aedrilor
+  email = nissavengeant@gmail.com
+
+[url "git@github-personal:Aedrilor/ffxiv-math.git"]
+  insteadOf = git@github.com:Aedrilor/ffxiv-math.git

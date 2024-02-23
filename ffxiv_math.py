@@ -6,7 +6,7 @@ Source for all formulas:
 https://www.akhmorning.com/allagan-studies/
 
 Inspiration for some implementation from:
-
+https://github.com/Yurihaia/xivc/tree/master
 
 @author: Phil S.
 aka Xavrian Solain (Lamia)
